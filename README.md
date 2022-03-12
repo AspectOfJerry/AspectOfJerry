@@ -1,11 +1,10 @@
 # Hi there! 👋
-## AspectOfJerry's GitHub profile
+## 🏷 AspectOfJerry's GitHub profile
 ![Profile views](https://komarev.com/ghpvc/?username=aspectofjerry)
-### My GitHub statistics
+### 📊 My GitHub statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aspectofjerry&theme=blueberry)
-### My most used languages in GitHub
+### ⌨ My most used languages in GitHub
 ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aspectofjerry&theme=blueberry)
-
 
 <!--
 **AspectOfJerry/AspectOfJerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
