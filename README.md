@@ -1,5 +1,5 @@
 # Hi there! 👋
-## GitHub profile
+## AspectOfJerry's GitHub profile
 ![Profile views](https://komarev.com/ghpvc/?username=aspectofjerry)
 ### My GitHub statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aspectofjerry&theme=blueberry)
