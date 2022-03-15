@@ -1,7 +1,7 @@
 # Hi there! 👋
 ## 🏷 AspectOfJerry's GitHub profile ![Profile views](https://komarev.com/ghpvc/?username=aspectofjerry)
 ### 📊 My GitHub statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aspectofjerry&theme=blueberry)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aspectofjerry&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true)
 ### ⌨ My most used languages in GitHub
 ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aspectofjerry&theme=blueberry)
 
