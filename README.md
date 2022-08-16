@@ -5,6 +5,7 @@
 ### ⌨ My most used languages in GitHub
 ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aspectofjerry&theme=react&layout=compact)
 
+[![My Skills](https://skillicons.dev/icons?i=azure,cpp,css,discord,bots,express,git,github,html,java,javascript,md,mongodb,nodejs,react,regex,vscode&theme=light&perline=6)](https://skillicons.dev)
 
 <!--
 **AspectOfJerry/AspectOfJerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
