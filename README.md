@@ -3,7 +3,7 @@
 ### 📊 My GitHub statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aspectofjerry&count_private=true&show_icons=true&theme=react&include_all_commits=true)
 ### ⌨ My most used languages in GitHub
-![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aspectofjerry&theme=react&layout=compact)
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aspectofjerry&theme=react&layout=compact&langs_count=10)
 
 [![My Skills](https://skillicons.dev/icons?i=azure,cpp,css,discord,bots,express,git,github,html,java,javascript,md,mongodb,nodejs,react,regex,vscode&theme=light&perline=7)](https://skillicons.dev)
 
