@@ -7,6 +7,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=azure,bootstrap,css,discord,bots,docker,express,git,github,githubactions,html,java,js,jquery,kubernetes,md,mongodb,nodejs,powershell,react,regex,vscode&theme=light&perline=10)](https://skillicons.dev)
 
+<img src ="https://github.com/AspectOfJerry/AspectOfJerry/blob/main/images/profile-joined-github.svg" width = "384" height = "auto">
+
+<sub>Joined GitHub on August 7, 2020.</sub>
+
+
 <!--
 **AspectOfJerry/AspectOfJerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
