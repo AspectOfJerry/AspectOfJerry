@@ -9,7 +9,7 @@
 
 <img src ="https://github.com/AspectOfJerry/AspectOfJerry/blob/main/images/profile-joined-github.svg" width = "384" height = "auto">
 
-<small>Joined GitHub on August 7, 2020.</small>
+<sub>Joined GitHub on August 7, 2020.</sub>
 
 
 <!--
