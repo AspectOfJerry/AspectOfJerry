@@ -1,11 +1,14 @@
 # Hi there! 👋
-## 🏷 AspectOfJerry's GitHub profile ![Profile views](https://komarev.com/ghpvc/?username=aspectofjerry)
 ### 📊 My GitHub statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aspectofjerry&count_private=true&show_icons=true&theme=react&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aspectofjerry&count_private=true&show_icons=true&include_all_commits=true&text_bold=false&bg_color=00000000&icon_color=87ceeb&ring_color=87ceeb&title_color=87ceeb)
 ### ⌨ My most used languages in GitHub
-![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aspectofjerry&theme=react&layout=compact&langs_count=10)
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aspectofjerry&layout=compact&langs_count=10&bg_color=00000000&title_color=87ceeb)
 
-[![My Skills](https://skillicons.dev/icons?i=azure,bootstrap,css,discord,bots,docker,express,git,github,githubactions,html,java,js,jquery,kubernetes,md,mongodb,nodejs,powershell,react,regex,vscode&theme=light&perline=10)](https://skillicons.dev)
+### 📗 I am most familiar with:
+[![My most familiar languages](https://skillicons.dev/icons?i=azure,arduino,discord,bots,git,github,githubactions,java,js,md,nodejs,powershell,regex,stackoverflow,vscode&theme=light&perline=10)](https://skillicons.dev)
+
+### 📕 I am less familiar with:
+[![My less familiar languages](https://skillicons.dev/icons?i=bootstrap,cpp,cs,css,docker,express,html,jquery,kubernetes,mongodb,react&theme=light&perline=10)](https://skillicons.dev)
 
 <img src ="https://github.com/AspectOfJerry/AspectOfJerry/blob/main/images/profile-joined-github.svg" width = "384" height = "auto">
 
