@@ -5,10 +5,10 @@
 ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aspectofjerry&layout=compact&langs_count=10&bg_color=00000000&title_color=87ceeb)
 
 ### 📗 More familiar/use most:
-[![My most familiar languages](https://skillicons.dev/icons?i=azure,cloudflare,discord,bots,git,github,githubactions,html,java,js,md,nodejs,postman,react,sass,vscode&theme=light&perline=10)](https://skillicons.dev)
+[![My most familiar languages](https://skillicons.dev/icons?i=azure,cloudflare,css,discord,bots,git,github,githubactions,html,java,js,md,nodejs,postman,react,sass,vscode&theme=light&perline=10)](https://skillicons.dev)
 
 ### 📕 Less familiar/use less:
-[![My less familiar languages](https://skillicons.dev/icons?i=arduino,cpp,cs,css,express,regex,ts&theme=light&perline=10)](https://skillicons.dev)
+[![My less familiar languages](https://skillicons.dev/icons?i=arduino,cpp,cs,express,regex,ts&theme=light&perline=10)](https://skillicons.dev)
 
 <img src ="https://github.com/AspectOfJerry/AspectOfJerry/blob/main/images/profile-joined-github.svg" width="384" height="auto">
 
