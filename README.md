@@ -10,8 +10,8 @@
 
 <a href="https://aspectofjerry.dev" target="_blank" rel="noreferrer">🔗Website</a>
 
+<img src ="https://github.com/AspectOfJerry/AspectOfJerry/blob/main/images/profile-joined-github.svg" width="380" height="auto">
 <h5>Joined GitHub on August 7, 2020</h5>
-
 
 <!--
 **AspectOfJerry/AspectOfJerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
