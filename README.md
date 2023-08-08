@@ -6,7 +6,8 @@
 
 ### Website
 
-[aspectofjerry.dev](https://aspectofjerry.dev)
+~~<https://aspectofjerry.dev>~~<br>
+<https://jerrydev.net/>
 
 ![GitHub joined on image](https://github.com/AspectOfJerry/AspectOfJerry/blob/main/images/profile_joined_github.svg)
 
