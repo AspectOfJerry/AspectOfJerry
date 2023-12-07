@@ -1,15 +1,12 @@
-# Hi there! 👋
-
-### 📊 GitHub statistics
+# Hey there! 👋
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aspectofjerry&count_private=true&show_icons=true&include_all_commits=true&text_bold=false&bg_color=00000000&icon_color=87ceeb&ring_color=87ceeb&title_color=87ceeb)
 
-### Website
-
-~~<https://aspectofjerry.dev>~~<br>
 <https://jerrydev.net/>
 
-![GitHub joined on image](https://github.com/AspectOfJerry/AspectOfJerry/blob/main/images/profile_joined_github.svg)
+<https://api.jerrydev.net/>
+
+<https://cdn.jerrydev.net/>
 
 ##### Joined GitHub on August 7, 2020
 
