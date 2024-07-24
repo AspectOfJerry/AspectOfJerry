@@ -1,6 +1,6 @@
-# Hey there! 👋
+# Hi there! 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aspectofjerry&count_private=true&show_icons=true&include_all_commits=true&text_bold=false&bg_color=00000000&icon_color=87ceeb&ring_color=87ceeb&title_color=87ceeb)
+![GitHub stats](https://ghstats.jerrydev.net/api?username=aspectofjerry&count_private=true&show_icons=true&include_all_commits=true&text_bold=false&theme=transparent&icon_color=b8e2f2&ring_color=b8e2f2&title_color=b8e2f2&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)![Top Langs](https://ghstats.jerrydev.net/api/top-langs/?username=aspectofjerry&layout=compact&langs_count=20&theme=transparent&hide_border=true&title_color=b8e2f2)
 
 <https://jerrydev.net/>
 
